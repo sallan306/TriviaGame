@@ -29,7 +29,7 @@ resetGame();
 
 function createGame() {
 
-$(".game").append("<div class='titleBox'>Giraffe Trivia</div>"); 
+$(".game").append("<div class='titleBox'>Giraffe Trivia!!</div>"); 
 $(".game").append("<div class='questionAndTimer'>");
 $(".game").append("<div class='answersBox'>");
 $(".game").append("<button class='startButton'>Press Start</button>");
